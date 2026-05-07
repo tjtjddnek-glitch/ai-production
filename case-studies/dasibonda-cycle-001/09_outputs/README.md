@@ -23,14 +23,15 @@
 
 ## ★ 페르소나별 채택률 (현재까지) — 메타 가설 2 자연 데이터
 
-| 페르소나 | 로그라인 6 | 인간 픽 | 디벨롭 | 60초 콘티 | YouTube 게시 |
-|---|---|---|---|---|---|
-| **PD1 역사덕후** | 6 | 1 (PD1-5) | 1 | 2 (식자공·의병) | **2** ★ |
-| **PD2 과학덕후** | 6 | 1 (PD2-5) | 1 | 1 (별자리 1438) | **1** |
-| **PD3 사회덕후** | 6 | 3 (PD3-1·5·6) | 3 | 1 (점심값) | **1** |
-| **PD4 글로벌덕후** | 6 | 1 (PD4-1) | 1 | 1 (1903photo) | 0 |
-| **PD5 디지털덕후** | 6 | 1 (PD5-1) | 1 | 1 (별 자매편) | 0 |
-| **총** | **30** | **7** | **7** | **6** | **4** |
+| 페르소나 | 등장 | 로그라인 6 | 인간 픽 | 디벨롭 | 60초 콘티 | YouTube 게시 |
+|---|---|---|---|---|---|---|
+| **PD1 역사덕후** | cycle 시작 | 6 | 1 (PD1-5) | 1 | 1 (`shorts_pd1.md`) + invisible_mountain 60초 콘티 GAP | **2** ★ (식자공·의병) |
+| **PD2 과학덕후** | cycle 시작 | 6 | 1 (PD2-5) | 1 | **콘티 GAP — `shorts_pd2.md` 부재** (v4 7분만) | **1** (별자리 1438, sync 대기) |
+| **PD3 사회덕후** | cycle 시작 | 6 | 3 (PD3-1·5·6) | 3 | 1 (`shorts_pd3.md`) | **1** (점심값, sync 대기) |
+| **PD4 글로벌덕후** | cycle 시작 | 6 | 1 (PD4-1) | 1 | 1 (`shorts_pd4.md`) | 0 (콘티 있지만 미게시) |
+| **PD5 디지털덕후** | cycle 시작 | 6 | 1 (PD5-1) | 1 | 1 (`shorts_pd5.md`, 광공해) | 0 (콘티 있지만 미게시) |
+| **PD6 김진혁 결** | **conference_005 자연 발생** | — | — | — | (33초·반도체 콘티 회의록 안에 박힘) | 0 |
+| **총** | — | **30** | **7** | **7** | **5+ GAP 2건** | **4** |
 
 ### 채택률 해석
 
@@ -77,11 +78,11 @@ outputs/
 
 ---
 
-## 매핑 표 — ep_pd1_typesetter1936 (식자공 1936, 10개)
+## 매핑 표 — ep_pd1_typesetter1936 (식자공 1936, 10개) — YouTube 게시됨
 
-콘티 원본: `/runs/cycle-001/v5_60sec/shorts_pd1.md` (60초 8컷)
+콘티 원본: `runs/cycle-001/v5_60sec/shorts_pd1.md` (60초 8컷)
 
-이 콘티는 *동아일보 1936년 일장기 말소 사건*의 식자공 시점 — Conference 003의 "1936년 잉크 세 번"의 *원형*. 회의에서 잉크 세 번이 콘티 픽션으로 폐기되기 전, **식자공의 핀셋 90초**라는 60초 콘티가 먼저 있었다.
+이 콘티는 *동아일보 1936년 일장기 말소 사건*의 식자공 시점. Conference 003의 "1936년 잉크 세 번"이 콘티 단계 픽션으로 폐기됐을 때, *원형*은 살아남았다 — `shorts_pd1.md`의 식자공의 핀셋 90초는 멀티스펙트럼 픽션 없이 *작업대 위 한 손*에 시선을 둔 미시사 결.
 
 | # | 콘티 컷 | duration | style 키워드 | mp4 파일명 (Style 발췌) | 크기 |
 |---|---|---|---|---|---|
@@ -91,31 +92,35 @@ outputs/
 | C04 | CUT 04 - 핀셋이 활자 두 개 빼냄 | 8s | Macro documentary, slow tactile motion | `Macro documentary_.mp4` | 2.3MB |
 | C05 | CUT 05 - 잉크 → 종이 → 빈 가슴 | 7s | Macro tactile reconstruction, ink texture | `Macro tactile reco.mp4` | 2.3MB |
 | C06 | CUT 06 - 정간 명령 도장 | 7s | Archival document overlay style | `Archival document.mp4` | 2.1MB |
-| C07 | CUT 07 - 시간 경과 + PIP 매크로 | 8s | Time-lapse style still composition | `Time-lapse style s.mp4` (3개 변형) | 1.8MB |
+| C07 | CUT 07 - 시간 경과 + PIP 매크로 | 8s | Time-lapse style still composition | `Time-lapse style s.mp4` 원본 + `_160733` + `_160748` | 1.8MB |
 | C08 | CUT 08 - 빈 활자 두 개 클로즈업 | 8s | Final still card composition | `Final still card c.mp4` | 1.9MB |
 
-**총 10개** = 8 컷 + Time-lapse 컷 변형 2개(`_160733`, `_160748`) — 같은 prompt로 시드 다르게 3회 시도한 흔적.
+**총 10개 = 8컷 + 시간경과(C07) 재생성 2회**. 같은 prompt로 시드/타임스탬프 다르게 3회 시도한 흔적 — Time-lapse 톤 잡기가 가장 어려운 컷이었다는 데이터.
+
+**채택**: YouTube `https://www.youtube.com/shorts/VKzCareMI4Q` 게시.
 
 ---
 
-## 매핑 표 — ep_pd1_invisible_mountain (보이지 않는 산, 8개)
+## 매핑 표 — ep_pd1_invisible_mountain (보이지 않는 산, 8개) — YouTube 게시됨
 
-콘티 원본: PD1-5 디벨롭 (`05_developed/04_pd1-5.json`) + 60초 압축 시도
+콘티 원본: **18분 콘티(`05_developed/04_pd1-5.json`, 6시퀀스)의 시퀀스 1·3·4·6 60초 압축**.
 
-이 콘티는 *1908년 의병 vs 일본군 17일간 못 본*의 60초 압축. Conference 003 회의에서 *깊이 부족*으로 60초로 살아남지 못함 — 영상 8개가 생성됐지만 운용 콘텐츠로 진입은 보류.
+→ **GAP — 60초 별도 콘티 파일 없음**. 다른 60초 ep는 `shorts_pdX.md`로 컷 단위 콘티가 있지만, invisible_mountain은 18분 풀 콘티만 존재. 작업자가 18분 콘티에서 *시퀀스 1·3·4·6*만 60초 안에 압축하도록 *직접 머리로* 매핑한 흔적. 파일명 키워드(Aerial / Ground-level / First-person POV / Final restrained)로 시퀀스 추정 가능.
 
-| # | 추정 컷 | duration | style 키워드 | mp4 파일명 (Style 발췌) | 크기 |
-|---|---|---|---|---|---|
-| 1 | 위성 좌표 진입 (Aerial 짧은) | 4s | Aerial satellite | `4 seconds_Style_ Aerial satellite.mp4` | 1.5MB |
-| 2 | 위성 좌표 연속 | 4s | Continued aerial | `4 seconds_Style_ Continued aerial.mp4` | 1.8MB |
-| 3 | 위성 좌표 6초 변형 | 6s | Aerial satellite | `6 seconds_Style_ Aerial satellite.mp4` | 2.1MB |
-| 4 | 능선 1인칭 시야 (변형 1) | 6s | Dynamic ground-level | `6 seconds_Style_ Dynamic ground-le.mp4` | 3.7MB |
-| 5 | 능선 1인칭 시야 (변형 2) | 6s | Dynamic ground-level | `6 seconds_Style_ Dynamic ground-le_153249.mp4` | 2.4MB |
-| 6 | 1인칭 POV (안개·활엽수림) | 6s | First-person POV | `6 seconds_Style_ First-person POV.mp4` | 4.4MB |
-| 7 | 위성 좌표 7초 (장 컷) | 7s | Aerial satellite | `7 seconds_Style_ Aerial satellite.mp4` | 3.9MB |
-| 8 | 마무리 정지 컷 | 8s | Final restrained | `8 seconds_Style_ Final restrained.mp4` | 1.7MB |
+| # | 추정 컷 | 18분 콘티 시퀀스 | duration | style 키워드 | mp4 파일명 (Style 발췌) | 크기 |
+|---|---|---|---|---|---|---|
+| 1 | 위성 좌표 진입 (Aerial 짧은) | 시퀀스 1 콜드오픈 위성 시점 | 4s | Aerial satellite | `4 seconds_Style_ Aerial satellite.mp4` | 1.5MB |
+| 2 | 위성 좌표 연속 | 시퀀스 1 후반/줌인 | 4s | Continued aerial | `4 seconds_Style_ Continued aerial.mp4` | 1.8MB |
+| 3 | 위성 좌표 6초 변형 | 시퀀스 1 또는 5 위성 재현 | 6s | Aerial satellite | `6 seconds_Style_ Aerial satellite.mp4` | 2.1MB |
+| 4 | 능선 1인칭 시야 (변형 1) | 시퀀스 3 행군 궤적 | 6s | Dynamic ground-level | `6 seconds_Style_ Dynamic ground-le.mp4` | 3.7MB |
+| 5 | 능선 1인칭 시야 (변형 2) | 시퀀스 3 행군 궤적 (재생성) | 6s | Dynamic ground-level | `6 seconds_Style_ Dynamic ground-le_153249.mp4` | 2.4MB |
+| 6 | 1인칭 POV (안개·활엽수림) | 시퀀스 4 1인칭 시야 시뮬 | 6s | First-person POV | `6 seconds_Style_ First-person POV.mp4` | 4.4MB |
+| 7 | 위성 좌표 7초 (장 컷) | 시퀀스 1 또는 5 (장 컷) | 7s | Aerial satellite | `7 seconds_Style_ Aerial satellite.mp4` | 3.9MB |
+| 8 | 마무리 정지 컷 | 시퀀스 6 엔딩 좌표 1,200점 | 8s | Final restrained | `8 seconds_Style_ Final restrained.mp4` | 1.7MB |
 
-**총 8개** = 다양한 시점·시간 길이 조합 — 60초 콘티 단위 픽 전 *프리비주얼* 단계의 시도.
+**총 8개** = 4 + 4 + 6 + 6 + 6 + 6 + 6 + 8 ≈ 46초 분량. 60초 쇼츠 8컷에 충분히 들어감. 다만 컷 순서 메타파일은 부재 — 작업자가 파일명 키워드 + 18분 콘티 시퀀스를 *직접 대조*해야 함. 
+
+**채택**: YouTube `https://www.youtube.com/shorts/an6yJBIoBG0` 게시 — *60초 별도 콘티 없이도* 18분 콘티의 시퀀스 분리만으로 게시까지 도달한 흔적.
 
 ---
 
@@ -132,15 +137,21 @@ outputs/
 
 ---
 
-## 빈 폴더 — 두 종류 (폐기 vs sync 대기)
+## 빈 폴더 — 세 종류
 
-| 폴더 | 상태 | 사유 |
-|---|---|---|
-| `ep_pd2_5_stars1438/` | **로컬 빈 폴더이지만 YouTube 게시됨** | 영상 출력물은 다른 머신(macbook-pro-2)에 있을 가능성. ssh sync 후 복원 |
-| `ep_pd3_lunch10000/` | **로컬 빈 폴더이지만 YouTube 게시됨** | Conference 002에서 *데이터 환산만* 결로 한 번 폐기됐다가 → 60초 압축으로 살아나 채널 게시. 영상 출력물은 sync 대기 |
-| `ep_pd4_1903photo/` | **진짜 미생성** | PD4 60초 콘티 작성됐으나 영상 생성 미진입. PD4 페르소나 60초 적합도가 낮은 첫 데이터 |
+| 폴더 | 상태 | 콘티 | 사유 |
+|---|---|---|---|
+| `ep_pd2_5_stars1438/` | **로컬 빈 / YouTube 게시됨** | **콘티 GAP — `shorts_pd2.md` 부재** (v4_short 7분 콘티만 있음) | 영상은 ssh seoseong-u@macbook-pro-2 sync 대기. 60초 콘티는 채널 영상에서 *역추출* 필요 |
+| `ep_pd3_lunch10000/` | **로컬 빈 / YouTube 게시됨** | `shorts_pd3.md` 9컷 ✓ | Conference 002에서 *데이터 환산만*으로 한 번 폐기됐다가 → 60초 결로 살아나 채널 게시. 영상은 sync 대기 |
+| `ep_pd4_1903photo/` | **로컬 빈 / 채널 미게시** | `shorts_pd4.md` 9컷 ✓ | 콘티 있지만 영상 생성 미진입. PD4 글로벌 페르소나의 60초 적합도가 다른 페르소나보다 낮은 첫 데이터 |
 
-→ **로컬 빈 폴더가 곧 폐기는 아니다**. ssh sync 후 stars1438·lunch10000 폴더는 영상 출력물로 채워질 예정. 1903photo만 진짜 미생성.
+### GAP — 1438별 60초 콘티 부재
+
+invisible_mountain과 함께 *콘티 GAP 2건* 중 하나. 차이:
+- **invisible_mountain**: 18분 콘티는 있고, 60초 콘티는 없지만 *시퀀스 분리만으로 mp4 8개 생성 → 채널 게시 도달*
+- **1438-star**: 7분 콘티(`v4_short/05_pd2-5_construction.md`)만 있고 60초 콘티 부재. 로컬 mp4 0건. 그러나 **YouTube에 게시됨**. → *7분 콘티의 일부를 직접 60초 영상으로 변환한 흔적*. 콘티 파일 형식의 *건너뛰기 운영*이 일어난 첫 사례. sync 후 정확 콘티 위치 파악 필요.
+
+이 두 GAP은 *콘티 → 영상 → 채널*이라는 표준 워크플로우가 *항상 따라가지는 않았다*는 운영 데이터. 다음 사이클에서 콘티 표준화·자동화 도구화의 시그널.
 
 ---
 
