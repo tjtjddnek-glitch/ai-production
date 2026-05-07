@@ -1,0 +1,192 @@
+{
+  "researcher_id": "researcher",
+  "report_date": "2026-05-03",
+  "social_trends": [
+    {
+      "phenomenon": "한국 초고령사회 공식 진입 — 65세 이상 인구 20% 돌파",
+      "evidence": "2025년 한국이 65세 이상 인구 비율 20%를 넘기며 초고령사회에 진입. 고령화사회(2000)→고령사회(2017)→초고령사회(2025)까지 25년, 일본보다 2배 빠른 속도. 2036년 30%, 2050년 40% 전망(통계청 2024 고령자통계).",
+      "sources": [
+        "https://www.kostat.go.kr/board.es?act=view&bid=10820&list_no=432917&mid=a10301010000",
+        "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003094057"
+      ],
+      "pd_signal": "역사·인구구조 변화(PD1·PD3)와 '노년의 존엄·연령통합' 사회 이슈(PD4)를 동시에 건드리는 장기 구조 시그널 — 단순 고령화 고발이 아닌 '사회 재설계' 관점 기획 진입 가능."
+    },
+    {
+      "phenomenon": "1인가구 800만 돌파 — 전체 가구의 36%가 혼자 산다",
+      "evidence": "2024년 기준 1인가구 804만 가구(전체 36.1%), 사상 첫 800만 돌파. 연령별 구성: 70세 이상 19.1% > 29세 이하 18.6% > 60대·30대 각 17.3%. 혼자 사는 주된 이유는 배우자 사망(31.9%), 학업·직장(22.4%), 자발적 선택(14.3%) 순(통계청 2024 1인가구 통계).",
+      "sources": [
+        "https://mods.go.kr/board.es?mid=a10301010000&bid=10820&act=view&list_no=434103",
+        "https://gonggam.korea.kr/newsContentView.es?mid=a10202000000&section_id=NCCD_PUBLISH&content=&code_cd=&nPage=28&b_list=9&news_id=b8ce7871-64fa-499b-b317-34a172553fad"
+      ],
+      "pd_signal": "청년 고독(사회·PD3)·글로벌 비교(PD4)·디지털 커뮤니티 대안(PD5) 등 다층 진입 가능 — 단, EBS 관점은 '결핍 진단'보다 '새로운 생애 설계' 앵글 권장."
+    },
+    {
+      "phenomenon": "AI 대전환 — 일자리·디지털 격차 불안 사회화",
+      "evidence": "한국지능정보사회진흥원(NIA) 조사에서 AI 활용 경험률 전 국민 51%, 장애인·고령층·저소득층은 30% 수준. KDI 보고서: AI 도입 확산이 주로 남성 30~44세·여성 15~29세 청년 고용 감소 방향으로 작용. 생성형 AI 콘텐츠 기업 채택률 32.1%(KOCCA 2025 연간 동향).",
+      "sources": [
+        "https://spri.kr/posts/view/23315?code=data_all&study_type=industry_trend",
+        "https://www.kdi.re.kr/research/reportView?pub_no=18370",
+        "https://zdnet.co.kr/view/?no=20251229161240"
+      ],
+      "pd_signal": "과학·기술 인문학(PD2)·경제·통계 리터러시(PD3)·디지털 포맷 실험(PD5) 모두 진입 가능 — 'AI가 세상을 바꾼다'보다 '이 기술을 어떻게 이해하고 살 것인가' 시민 교양 앵글."
+    },
+    {
+      "phenomenon": "청년 자산 사다리 절단 — 39세 이하 순자산 오히려 감소",
+      "evidence": "2026 하나금융연구소 웰스 리포트: 40~50대 자산 크게 증가하는 동안 39세 이하 가구 순자산은 전년 대비 0.3% 감소. 2030 금융부채/저축 비율 131.1%(모든 예금 인출해도 빚 상환 불가). 소득 하위 20%·상위 20% 간 순자산 격차 8배.",
+      "sources": [
+        "https://kdi.re.kr/share/pressContriView?bd_no=50779",
+        "https://www.bebooja.com/calculator/korea-asset-2026"
+      ],
+      "pd_signal": "경제·통계 리터러시 기획(PD3)의 핵심 소재 — '왜 열심히 해도 자산이 안 쌓이는가'를 구조적으로 설명하는 다큐·다이어그램 강의 형식 수요 높음."
+    },
+    {
+      "phenomenon": "지방소멸 가속 — 기초자치단체 60% 소멸위험 진입",
+      "evidence": "2026년 3월 기준 229개 기초자치단체 중 138곳(60.2%)이 소멸위험지역. 수도권 인구 집중 51.09%. 비수도권 지자체 77%가 소멸 위험 '높다' 자체 평가. 학령인구 급감으로 지역 학교 폐교 가속(행정안전부).",
+      "sources": [
+        "https://www.mois.go.kr/frt/sub/a06/b06/populationDecline/screen.do",
+        "https://futurechosun.com/archives/142227"
+      ],
+      "pd_signal": "역사·인물사(PD1) '사라진 마을', 사회·정책(PD3) '지방 소멸 해법', 글로벌 비교(PD4) '일본 과소화 30년' 등 복수 앵글 — EBS 지역 시청자와 직접 연결되는 공감 소재."
+    },
+    {
+      "phenomenon": "기후·생태 위기의 일상화 — 식량안보·생물다양성이 시민 의제로",
+      "evidence": "전문가 조사에서 2026년 한국 기업·사회의 3대 지속가능 트렌드: AI 기반 지속가능성 관리, 순환경제, 생물다양성 지표. 기후 식량안보 이슈가 통상·외교 의제와 결합되는 구조적 전환 진행 중(공간타일 아카데미 2026 지속가능성 분석).",
+      "sources": [
+        "https://www.spaceinews.com/news/898790",
+        "https://nsp.nanet.go.kr/plan/subject/detail.do?newReportChk=list&nationalPlanControlNo=PLAN0000031131"
+      ],
+      "pd_signal": "과학·자연(PD2)과 글로벌·사회(PD3·PD4) 교차점 — '기후과학 입문' 단계 넘어 '내 식탁·내 지역 생태계'로 구체화한 교양 기획 공백 있음."
+    }
+  ],
+  "content_trends": [
+    {
+      "title_or_channel": "The Dinosaurs (Netflix, 4부작)",
+      "category": "지식·교양",
+      "metric": "Rotten Tomatoes 100% (2026.03 기준), 글로벌 상위권 유지",
+      "period": "2026년 3월 공개",
+      "sources": [
+        "https://www.whats-on-netflix.com/what-to-watch/10-best-new-netflix-documentaries-of-2026-so-far/"
+      ],
+      "pd_signal": "차세대 CGI+과학 다큐 포맷 성공 사례 — PD2 과학·자연이 '어떻게 보여줄 것인가' 시각화 방향 참고 가능."
+    },
+    {
+      "title_or_channel": "A Gorilla Story: Told by David Attenborough (Netflix)",
+      "category": "지식·교양",
+      "metric": "2026 최고 기대 생태 다큐, 1978년~50년 종적 추적 서사",
+      "period": "2026년 공개",
+      "sources": [
+        "https://theglossarymagazine.com/arts-culture/eco-documentaries/",
+        "https://www.whats-on-netflix.com/what-to-watch/10-best-new-netflix-documentaries-of-2026-so-far/"
+      ],
+      "pd_signal": "장기 아카이브+현재를 잇는 다큐 포맷 — PD2의 '생명·생태 장기 관찰' 기획에 서사 구조 레퍼런스."
+    },
+    {
+      "title_or_channel": "Louis Theroux: Inside the Manosphere (Netflix)",
+      "category": "지식·교양",
+      "metric": "2026 상반기 Netflix 글로벌 화제 다큐",
+      "period": "2026년 상반기",
+      "sources": [
+        "https://www.whats-on-netflix.com/what-to-watch/10-best-new-netflix-documentaries-of-2026-so-far/"
+      ],
+      "pd_signal": "온라인 남성주의·디지털 문화 해부 포맷 — PD4 글로벌 문화·인류학, PD5 디지털 네이티브 공동 진입 가능 소재."
+    },
+    {
+      "title_or_channel": "슈카월드 (유튜브 경제·지식 채널)",
+      "category": "지식·교양",
+      "metric": "구독자 340만+, 경제·금융·산업 주제 한국 최대 지식 채널",
+      "period": "2024~2026 지속 성장",
+      "sources": [
+        "https://namu.wiki/w/%EC%8A%88%EC%B9%B4%EC%9B%94%EB%93%9C",
+        "https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/video/meet-the-creators-%E2%91%A2-%EC%8A%88%EC%B9%B4%EC%9B%94%EB%93%9C/"
+      ],
+      "pd_signal": "경제·시사·통계 해설 롱폼이 대중화된 증거 — PD3의 '통계 리터러시' 콘텐츠 포맷 및 시장 수요 검증."
+    },
+    {
+      "title_or_channel": "EBS다큐 (유튜브 채널)",
+      "category": "지식·교양",
+      "metric": "구독자 400만+(국내 방송사 다큐 채널 최초), 누적 조회수 44억 회",
+      "period": "2025년 400만 달성",
+      "sources": [
+        "https://www.lecturernews.com/news/articleView.html?idxno=152043"
+      ],
+      "pd_signal": "EBS 자체 유튜브 채널이 400만 구독자 확보 — 기존 방송 콘텐츠의 디지털 확장 수요가 실증됨. PD5의 숏폼-롱폼 투트랙 전략과 직접 연결."
+    },
+    {
+      "title_or_channel": "안될과학 (유튜브 과학 채널)",
+      "category": "지식·교양",
+      "metric": "구독자 100만+(2023.12 달성), 박사급 과학자 직접 출연·설명 포맷",
+      "period": "2023~2026 성장",
+      "sources": [
+        "https://namu.wiki/w/%EC%95%88%EB%90%A0%EA%B3%BC%ED%95%99"
+      ],
+      "pd_signal": "'전문가 직접 해설' 포맷이 100만 채널로 성장 — PD2 과학 기획 시 외부 전문가 협업 포맷 수요 확인."
+    },
+    {
+      "title_or_channel": "Kurzgesagt (글로벌 유튜브 과학·인문 채널)",
+      "category": "지식·교양",
+      "metric": "구독자 2,500만, 총 조회수 35억 회, 평균 영상 14분",
+      "period": "2026년 현재",
+      "sources": [
+        "https://air.io/en/trending/10-most-popular-educational-youtubers-in-2026"
+      ],
+      "pd_signal": "14분 고품질 애니메이션 인포그래픽 포맷이 과학·철학 주제에서 글로벌 표준으로 — PD2·PD3 기획 시 시각화 포맷 벤치마크."
+    },
+    {
+      "title_or_channel": "Queen of Chess (Netflix, 역사·스포츠 다큐)",
+      "category": "지식·교양",
+      "metric": "2026 상반기 Netflix 화제 다큐",
+      "period": "2026년 상반기",
+      "sources": [
+        "https://www.whats-on-netflix.com/what-to-watch/10-best-new-netflix-documentaries-of-2026-so-far/"
+      ],
+      "pd_signal": "역사적 인물의 '결정적 선택' 서사 포맷 — PD1 역사·인물사 기획에서 '스포츠·천재' 교차 소재 활용 가능성."
+    }
+  ],
+  "category_matrix": {
+    "hot": [
+      "AI·기술 윤리 — 시청자 관심 최고조, 쉽게 설명하는 교양 콘텐츠 절대적 공백",
+      "초고령사회·노년 라이프스타일 — 65세+ 시청층 급증, 공감 기반 교양 수요 폭증",
+      "기후·생태 과학 — 글로벌 Netflix 흥행 증명, 국내 교양 공급 부족",
+      "경제·자산 구조 해설 — 슈카월드 성공으로 시장 검증, EBS 공공성 앵글 차별화 가능",
+      "지방소멸·지역 사라진 것들 — EBS 지역 시청자 공감, 아카이브 콘텐츠 시너지",
+      "우주·천체·생명과학 — 유튜브 조회수 상위권 유지, 10~30대 입문 수요 견조"
+    ],
+    "cold": [
+      "정치 시사 해설 — 극단화·편향 리스크, EBS 공공성과 충돌, 시청자 피로 높음",
+      "일반 연예·버라이어티 교양 — OTT·유튜브 포화 상태, 지상파 교양 시청률 2% 이하로 추락",
+      "전통 문화재·무형유산 단독 기획 — 시청층 고령화, 디지털 연계 없이는 신규 유입 어려움",
+      "기업·산업 홍보형 경제 다큐 — 시청자 신뢰 저하, 중립성 훼손 우려",
+      "스펙·취업·입시 정보 — 포털·유튜브 공급 과잉, EBS 강점 영역과 중복되지만 교양 카테고리 외"
+    ]
+  },
+  "market_size": {
+    "korea_knowledge_content_market": "2025년 한국 전체 콘텐츠산업 매출 161조 4,839억 원. 지식정보 분야 전년 대비 7.8% 성장으로 11개 장르 중 두 번째 고성장 기록. 방송 분야 매출은 -1.3% 역성장(광고수익 급감, OTT 전환 가속).",
+    "growth_rate_yoy": "지식정보 +7.8%; 방송 -1.3%; 전체 콘텐츠 +2.6% (KOCCA 2025 연간 콘텐츠산업 동향분석, 2026.04.30 발표)",
+    "top_korean_channels": [
+      "EBS다큐 — 구독자 400만+, 누적 조회수 44억 회 (국내 다큐 채널 1위)",
+      "슈카월드 — 구독자 340만+, 경제·지식 교양 카테고리 최다",
+      "안될과학 — 구독자 100만+, 박사급 과학 해설 포맷",
+      "1분과학·신박과학 — 각 50~80만 구독, 우주·천체 콘텐츠 강세",
+      "KBS다큐 — 공영방송 다큐 유튜브 채널 (구체적 수치 미확인, 추정)"
+    ],
+    "global_comparison": "글로벌 교육 유튜브 채널(2026 기준): Kurzgesagt 2,500만 구독자·35억 조회, Vsauce 2,460만·64억 조회, Veritasium 2,010만·39억 조회 — 평균 영상 길이 14~36분으로 '숏폼과 공존하는 고품질 롱폼' 포맷 유지. 한국 지식 채널 대비 10~25배 구독자 격차, 시각화·스토리텔링 품질이 핵심 변수. 미국 Netflix 2026 다큐 전략은 자연과학(Attenborough), 사회 해부(Theroux), 역사 인물 3대 축 유지.",
+    "sources": [
+      "https://www.s-journal.co.kr/news/articleView.html?idxno=41017",
+      "https://www.sedaily.com/article/20039126",
+      "https://www.lecturernews.com/news/articleView.html?idxno=152043",
+      "https://air.io/en/trending/10-most-popular-educational-youtubers-in-2026",
+      "https://www.kca.kr/Media_Issue_Trend/vol65/KCA65_14_issue4.html"
+    ]
+  },
+  "demographics": {
+    "viewing_habits": "2026년 CJ메조미디어 타겟 리포트: OTT 이용시간 30대 일평균 63분으로 최다, 전체 평균 56분. 숏폼 일평균 시청: 10대 75분, 20대 54분, 30대 41분, 40대 40분, 50대 33분. 주요 숏폼 플랫폼: 유튜브 쇼츠 75%, 인스타그램 릴스 43%, 틱톡 20%. TV 일평균 시청은 2019~2023년 24.1분 감소, 스마트폰은 17.6분 증가(방통위 2024).",
+    "shortform_vs_longform": "10대 62%가 숏폼 선호 vs 풀버전 47%. 20~30대는 숏폼·롱폼 선호도 50%대 혼재. 40~50대는 롱폼(1~2시간) 상대적 선호. 영상 선호 길이는 전 연령 '30분~1시간 미만' 35%로 1위 — 지식교양 중형 포맷(20~40분)이 20~50대 전 세대에 통함. 교양 채널 구독·지식정보 소비는 30~40대가 핵심층.",
+    "ebs_audience_estimate": "EBS다큐 유튜브 채널 400만 구독자 기준, 주요 시청층은 30~50대 추정(다큐 장르 특성상). 지상파 교양·다큐 시청률은 2% 이하로 TV 이탈 가속. EBS 브랜드가 '공신력·깊이'로 유튜브·OTT에서도 차별화 가능성 확인됨(직접 공식 시청층 통계 미공개).",
+    "sources": [
+      "https://www.madtimes.co.kr/news/articleView.html?idxno=23809",
+      "https://zdnet.co.kr/view/?no=20250817073212400",
+      "https://www.kca.kr/Media_Issue_Trend/vol65/KCA65_14_issue4.html"
+    ]
+  },
+  "synthesis_for_pd": "2026년 5월 기준 가장 강한 구조 시그널 3개: (1) 초고령사회 진입 + 1인가구 800만 = '혼자 나이드는 삶'이 사회 기본값이 됐다 — PD1(인물사·사라지는 것들)·PD3(인구통계·정책)·PD4(글로벌 비교) 모두 진입 가능. (2) AI 전환 불안 + 디지털 격차 = 기술을 이해하고 싶은 30~50대 수요 급증 — PD2(과학기술 원리)·PD3(경제·노동)·PD5(포맷 실험)의 삼각 편성 가능성. (3) 지식정보 콘텐츠 시장 +7.8% 성장, 방송 -1.3% 역성장 = 콘텐츠 자체의 질이 좋으면 플랫폼을 가리지 않고 소비된다는 증거. EBS다큐 유튜브 400만은 '공영성·깊이'가 오히려 경쟁력임을 증명. 포맷 공백: 글로벌에서는 Kurzgesagt식 14분 애니메이션 인포그래픽, Netflix식 50년 아카이브 추적 다큐가 표준이 됐지만 한국 교양 콘텐츠에서는 아직 미개발 영역. PD5의 숏폼-롱폼 투트랙 실험이 가장 시급한 포맷 혁신 지점."
+}

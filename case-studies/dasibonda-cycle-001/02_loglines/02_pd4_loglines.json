@@ -1,0 +1,89 @@
+{
+  "pd_id": "pd4_global",
+  "loglines": [
+    {
+      "logline": "혼자 나이 드는 도시: 서울·도쿄·헬싱키의 75세 여성 세 명, 같은 아침 7시의 식탁을 AI 동시 중계로 연결한다.",
+      "why_good": "한국이 2025년 초고령사회·1인가구 800만에 동시 진입한 지금, '혼자 늙는 삶'은 이미 사회의 기본값이 됐다. 핀란드는 1인가구 비율 47%로 세계 최고, 일본은 우리보다 25년 앞서 같은 길을 걸었다. 세 도시 75세 여성의 같은 시각 식탁·약통·창밖 풍경을 나란히 두면 '한국 노년의 독자성과 보편성'이 동시에 보인다. 결핍 고발이 아니라 '어떻게 혼자 나이 들 것인가'의 생애 설계 자료가 된다.",
+      "ebs_fit": "공교양·세계 시민 의식이 만나는 지점이다. 한 사람의 식탁에서 출발해 사회 재설계 담론으로 넓히는 EBS 다큐 문법에 정확히 부합한다.",
+      "ai_role": "세 도시 화상 동시 중계와 다국어 실시간 번역, 음성 아카이브 정리에 AI를 사용한다. 각 도시 출연자의 50년 전 사진을 AI 복원해 '동세대 글로벌 종단'을 시각화한다.",
+      "research_summary": "통계청 2024 고령자통계: 한국 65세+ 인구 20% 돌파, 1인가구 804만(70세 이상 19.1%, 자발적 선택 14.3%). Statistics Finland: 핀란드 1인가구 비율 OECD 최고 수준. 일본 총무성: 65세 이상 1인가구 700만 돌파. Netflix 'A Gorilla Story'식 50년 종단 추적 서사 구조 차용 가능.",
+      "sources": [
+        "https://www.kostat.go.kr/board.es?act=view&bid=10820&list_no=432917&mid=a10301010000",
+        "Statistics Finland — Households by size (https://stat.fi/en/statistics/asas)",
+        "総務省統計局 — 国勢調査 高齢単独世帯 (https://www.stat.go.jp/data/kokusei/)"
+      ],
+      "ebs_fit_score": 9,
+      "novelty_score": 8
+    },
+    {
+      "logline": "이탈리아 1유로 빈집과 한국 지방 소멸 마을: 두 마을 청년 이주자의 1년을 교차 추적한다.",
+      "why_good": "한국 기초자치단체 60.2%가 소멸위험에 진입한 지금, 이탈리아 남부 무솔리노·삼부카·시칠리아의 '1유로 주택' 정책은 가장 가까운 비교 사례다. 양쪽 다 '청년이 안 돌아오는 마을'에 공공이 개입했고, 양쪽 다 외부 유입 청년이 새 공동체를 짜는 중이다. 지방 소멸을 '사라짐'으로만 보는 한국 시청자에게 '재정착'의 구체적 실험 자료를 제공한다.",
+      "ebs_fit": "지역 시청자와 직접 연결되는 공감 소재면서, 한국 정책 담론을 글로벌 실험과 나란히 두는 공교양 기획이다.",
+      "ai_role": "양쪽 마을의 1990·2010·2026 위성·항공 사진을 AI로 정합해 '인구 빠지는 30년'을 시각화. 이탈리아 행정 공문서·지방의회 회의록을 AI 번역으로 한국 정책 담당자가 바로 볼 수 있게 만든다.",
+      "research_summary": "행정안전부 인구감소지역지도: 229개 기초단체 중 138곳 소멸위험. Comune di Sambuca·Mussomeli 공식 1유로 프로그램 등록 외국인 매입자 통계 공개 중. 지자체 자체 평가 77% '높다'. 일본 공가뱅크와도 비교 가능하지만 본 회차는 이탈리아 집중으로 차별화.",
+      "sources": [
+        "https://www.mois.go.kr/frt/sub/a06/b06/populationDecline/screen.do",
+        "Comune di Sambuca di Sicilia — Case a 1 Euro 공식 페이지 (https://www.comune.sambucadisicilia.ag.it)",
+        "Comune di Mussomeli — Case 1 Euro Programma (https://www.comune.mussomeli.cl.it)"
+      ],
+      "ebs_fit_score": 9,
+      "novelty_score": 8
+    },
+    {
+      "logline": "사라지는 한 단어를 따라간다: 제주어 '강생이'와 아이누어 '시사뭇'을 마지막으로 발음한 사람들의 목소리를 AI가 다시 부른다.",
+      "why_good": "유네스코 소멸위기언어 지도에서 한국 제주어와 일본 아이누어는 같은 등급(Critically Endangered)이다. 한국 시청자에게 '제주어가 사라진다'는 막연한 사실이 같은 운명의 아이누어와 나란히 놓일 때 비로소 절박해진다. 언어 한 단어가 사라진다는 것이 한 세계관의 소멸임을 인류학적으로 보여준다.",
+      "ebs_fit": "사라져가는 전통·언어 기록은 EBS 공교양 다큐의 본령이다. 자극 없이 인간 존엄 우선 원칙에 부합한다.",
+      "ai_role": "남은 화자의 음성·어휘 데이터를 AI로 학습해 사어가 된 단어의 발음을 복원·합성. 한국 시청자가 한국어 자막과 함께 직접 들을 수 있게 한다. 단, 화자 동의·유족 동의·공동체 검토 절차를 명시한다.",
+      "research_summary": "UNESCO Atlas of the World's Languages in Danger: 제주어 'critically endangered', 아이누어 동일 등급. 국립국어원 제주어 자료, 일본 아이누민족문화재단(공익재단법인) 사라모하이브 아카이브. AI 음성 복원은 윤리 가이드라인(Indigenous Data Sovereignty) 준수 필수.",
+      "sources": [
+        "UNESCO Atlas of the World's Languages in Danger (https://www.unesco.org/languages-atlas/)",
+        "국립국어원 제주어 종합 정보 (https://www.korean.go.kr)",
+        "公益財団法人アイヌ民族文化財団 (https://www.ff-ainu.or.jp)"
+      ],
+      "ebs_fit_score": 10,
+      "novelty_score": 9
+    },
+    {
+      "logline": "투발루 외무장관은 디지털 국가를 선포했다 — 가라앉는 섬의 마지막 5년, AI 가상 현장에서 한국 시청자가 함께 본다.",
+      "why_good": "투발루는 2022년 메타버스에 영토를 복제한 세계 첫 사례다. 2026년 현재 인구 절반이 호주 이주를 결정했고, 정부는 '디지털 국가'로 주권을 이양 중이다. 한국 시청자에게 기후 위기는 추상적 미래지만, 투발루 푸나푸티 거리의 구체적 일상을 AI 가상 현장으로 보여주면 '내 식탁의 기후'와 자연스럽게 연결된다. AI로 못 가는 곳을 가는 PD4의 가장 적합한 영역이다.",
+      "ebs_fit": "기후·이주 국제 이슈의 인간적 결을 한 가족의 하루로 풀어내는 EBS식 접근. 세계 시민 의식 함양에 직접 기여한다.",
+      "ai_role": "투발루 정부가 공개한 메타버스 영토 데이터·위성 사진·현지 영상을 AI 합성해 가상 현장 리포팅 구성. 현지 가족 인터뷰는 직접 송출(현지 협력 필수), 외부 출입이 어려운 산호초·해수면 변화 구간만 AI 시각화로 보충한다.",
+      "research_summary": "Tuvalu Ministry of Justice 'Future Now Project'와 Digital Nation 공식 발표. UNHCR 태평양 기후 이주 보고서. 호주-투발루 Falepili Union 조약(2024 발효): 매년 280명 영주권 쿼터. 한국 기상청·KMA 기후 식량 안보 보고와 연결 가능.",
+      "sources": [
+        "Tuvalu Government — Future Now Project (https://www.tuvalu.tv)",
+        "Australia DFAT — Falepili Union Treaty (https://www.dfat.gov.au/geo/tuvalu/falepili-union-treaty)",
+        "UNHCR Pacific Climate Mobility (https://www.unhcr.org/pacific)"
+      ],
+      "ebs_fit_score": 9,
+      "novelty_score": 9
+    },
+    {
+      "logline": "튀니지 노년 여성과 한국 시골 어머니가 같은 빵을 굽는다 — '집 빵'의 인류학, 두 부엌의 손동작이 일치하는 순간.",
+      "why_good": "튀니지 타바르카 산촌의 'khobz tabouna'와 한국 강원도 화전민 '감자떡'은 도구·재료·곡물이 다른데 손동작이 거의 동일하다. 빵·떡은 가장 사적이면서 가장 보편적인 일상이다. '한국과 북아프리카'의 의외 비교는 한국 시청자의 시야를 직접 넓힌다. 자극 없이, 오리엔탈리즘 없이, 두 부엌의 침묵을 나란히 두는 인류학 다큐.",
+      "ebs_fit": "각국 일상 풍경의 인류학적 관찰이라는 PD4 핵심 강점이 EBS 공교양과 그대로 만난다. 거대 담론 없이 한 사람의 손에서 출발한다.",
+      "ai_role": "두 어머니의 손동작을 AI 모션 매칭으로 정렬해 '같은 동작 다른 곡물' 시각 비교. 양쪽 사투리·구어 인터뷰는 AI 다국어 자막으로 동시 제공.",
+      "research_summary": "FAO Traditional Foodways database 'khobz tabouna' 등재 자료. 한국 농촌진흥청 향토음식 DB 감자떡 강원 화전민 항목. UNESCO Intangible Cultural Heritage North African flatbread traditions(2020 등재). 단순 풍물이 아닌 '곡물·기후·여성 노동' 인류학 앵글.",
+      "sources": [
+        "FAO — Traditional Foodways Knowledge Hub (https://www.fao.org/traditional-foods)",
+        "농촌진흥청 향토음식 DB (https://koreanfood.rda.go.kr)",
+        "UNESCO ICH — Mediterranean Diet (https://ich.unesco.org/en/RL/mediterranean-diet-00884)"
+      ],
+      "ebs_fit_score": 9,
+      "novelty_score": 8
+    },
+    {
+      "logline": "AI에 못 들어간 사람들의 지도: 인도네시아 어시장 상인, 케냐 농촌 교사, 한국 농촌 70대 — 같은 시각 같은 검색을 시도한다.",
+      "why_good": "한국 NIA 조사로 AI 활용 경험률 전 국민 51%, 장애·고령·저소득 30% 수준이라는 격차가 드러났다. 같은 격차가 글로벌에서도 나타난다 — World Bank '디지털 디바이드 2.0' 보고가 동일 패턴을 잡았다. '한국 디지털 격차'를 글로벌 평균 안에 두면 자기 연민도 자만도 사라지고, 무엇이 진짜 변수인지 보인다. AI 시대의 시민 교양 다큐.",
+      "ebs_fit": "AI를 '어떻게 이해하고 살 것인가'의 시민 교양 앵글이라는 시그널 합치점. EBS의 공공성·교양 정체성에 부합.",
+      "ai_role": "세 출연자의 같은 시각 같은 질문 검색·음성 입력을 AI 화면 동시 캡처해 비교. 다국어 음성을 AI로 한국어 동시 자막화. 출연자가 어떤 AI 도구를 어떻게 사용하는지가 콘텐츠 자체.",
+      "research_summary": "한국지능정보사회진흥원(NIA) 2025 디지털정보격차 실태조사. World Bank Digital Development Report 2025. KDI '생성형 AI와 노동시장' 보고. 단순 격차 고발이 아닌, 세 사람이 같은 도구로 다른 결과를 만나는 과정 자체가 콘텐츠.",
+      "sources": [
+        "NIA 디지털정보격차 실태조사 (https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=81623)",
+        "World Bank — Digital Development Global Practice (https://www.worldbank.org/en/topic/digitaldevelopment)",
+        "KDI 연구보고서 생성형 AI와 노동시장 (https://www.kdi.re.kr/research/reportView?pub_no=18370)"
+      ],
+      "ebs_fit_score": 8,
+      "novelty_score": 8
+    }
+  ]
+}

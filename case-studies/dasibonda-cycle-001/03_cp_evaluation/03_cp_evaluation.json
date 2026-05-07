@@ -1,0 +1,301 @@
+{
+  "cp_id": "cp_senior",
+  "evaluation_date": "2026-05-03",
+  "cycle": "cycle-001",
+  "weighting_note": "weighted_score = (publicness*0.25 + veracity*0.20 + learning_intent*0.20 + scalability*0.15 + ai_necessity*0.20). 5축 동일 가중 아님. 공공성·고증·학습 의도성에 무게.",
+  "evaluations": [
+    {
+      "logline_ref": "PD1-1",
+      "title_short": "혼자 죽은 노인의 70년 호적사",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 8, "ai_necessity": 7},
+      "weighted_score": 8.05,
+      "comment": "고독사·1인가구 시그널의 기원을 행정문서로 거꾸로 추적하는 접근, EBS 정체성에 정확. 다만 '한 사망 보고서에서 출발'이 다큐 단일 사례 미화로 흐를 위험 — 윤리·유족 동의 절차가 사전 설계돼야. AI 활용은 사진 복원·시뮬레이션 정도라 '필연성' 만점은 아님. 고증 자원은 국가기록원·동회 회의록으로 충분 가능.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD1-2",
+      "title_short": "정약용의 18년 생각 알고리즘",
+      "scores": {"publicness": 7, "veracity": 9, "learning_intent": 9, "scalability": 7, "ai_necessity": 8},
+      "weighted_score": 7.85,
+      "comment": "다산학술재단 디지털 아카이브가 1차 사료로 잘 정리돼 있어 고증은 안전. '연구한다는 것이 무엇인가' 학습 의도는 현 AI 시대 동시대성 가짐. 그러나 '정약용'이라는 인물 자체가 EBS·KBS에서 이미 여러 번 다뤄진 익숙한 인물 — '인용 네트워크 시각화'라는 형식 차별화가 시청자 진입 동기로 충분히 작동할지 모호. 인문 다큐 시청층은 좁음.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD1-3",
+      "title_short": "파독 광부 한 사람의 7년",
+      "scores": {"publicness": 9, "veracity": 9, "learning_intent": 8, "scalability": 7, "ai_necessity": 8},
+      "weighted_score": 8.20,
+      "comment": "'외화벌이 영웅' 프레임을 해체하고 노동의 구체성을 복원하는 접근이 EBS 공교양의 본업. 보훔 광산박물관·외교사료관 1차 사료가 견고. 파독 1세대가 80대인 지금이 구술 채록의 마지막 골든타임이라는 시의성도 강함. AI 역할이 '다국가 사료의 시간 동기화'로 분명. 단점은 '한 사람의 7년 분 단위 복원'이 1편 다큐로 너무 좁아 보일 수 있음 — 시즌화 설계 필요.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD1-4",
+      "title_short": "5·18 광주 다방 전화 교환수의 6일",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 6, "ai_necessity": 9},
+      "weighted_score": 8.00,
+      "comment": "5·18을 '통신 인프라' 시점으로 재해석하는 시도는 신선하고 본 페르소나 강점이 정확히 들어맞음. AI의 '다층 사료 시간 동기화'는 본질 활용. 다만 정치·세대 민감도가 가장 높은 주제 — 군 무전 녹취·계엄군 측 사료 사용 시 편향 시비 리스크. '평범한 노동자 시점'이라는 앵글이 그 리스크를 줄여주지만, 자문진 구성이 5·18기념재단 일변도면 균형 시비 다시 발생. 확장성은 5·18 전용이라 단발 가능성 높음.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD1-5",
+      "title_short": "1908 의병의 산악 작전 지리",
+      "scores": {"publicness": 7, "veracity": 9, "learning_intent": 8, "scalability": 6, "ai_necessity": 8},
+      "weighted_score": 7.55,
+      "comment": "국사편찬위 한국사DB와 일본 방위연구소 토벌지를 같은 지도에 겹친다는 발상은 학술적으로 가치 있음. 그러나 '교과 콘텐츠 보강' 성격이 강해 EBS 인터넷강의 영역과 겹칠 수 있음. 시청 후 '왜 졌는가'의 지리·물류 구조 학습이라는 학습 의도는 명확하지만, 일반 다큐 편성 끌림 측면은 약함. 본 페르소나의 다른 안건들(파독·5·18·활판인쇄)에 비해 사회 시그널 연결성도 약함.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD1-6",
+      "title_short": "마지막 활판 주조공의 손동작 4,237회",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 9, "scalability": 9, "ai_necessity": 9},
+      "weighted_score": 8.75,
+      "comment": "'다큐 자체가 사료가 된다'는 본질이 가장 강하게 작동하는 안건. 사라지기 직전의 신체 기억을 모션캡처+8K로 영구 보존하는 작업은 AI 시대의 새 공공성 정의에 정확. EBS만이 책임질 수 있는 영역. 시즌화·아카이브 자산화·교과 활용 모두 강함. 단, '4,237회'라는 숫자의 출처와 '마지막 활판인쇄소 2024년 폐업'의 정확성은 사실 검증 필요. PD1 안에서 가장 강함.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD2-1",
+      "title_short": "혼자 잠든 뇌의 24시간",
+      "scores": {"publicness": 8, "veracity": 9, "learning_intent": 9, "scalability": 7, "ai_necessity": 8},
+      "weighted_score": 8.20,
+      "comment": "글림프 시스템(2013) 이후 신경과학의 결정적 진전을 시민에게 직관 전환할 수 있는 거의 마지막 공백 영역. 1인가구 시그널과 '내 몸'을 연결하는 학습 의도가 강하고 실생활 행동 변화로 이어질 측정 가능성도 큼. AI 분자 시뮬레이션이 본질 활용. 약점은 '단 하루 잠 못 잔'이라는 자극적 훅이 EBS 차분한 톤과 충돌할 위험 — 톤 관리 필요.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD2-2",
+      "title_short": "한국 갯벌의 1년, 거시·미시 줌",
+      "scores": {"publicness": 9, "veracity": 9, "learning_intent": 8, "scalability": 8, "ai_necessity": 7},
+      "weighted_score": 8.20,
+      "comment": "유네스코 등재(2021) 이후 한국 갯벌의 탄소 저장 가치는 대중적으로 잘 모르는 영역. 새만금이라는 한국 고유 사건과 블루카본을 엮는 각도가 정파성 없이 작동. 자문진(서울대 김종성 등) 견고. 위성·드론·미생물 데이터 결합은 잘 짜인 시각 설계. 단, AI '필연성'은 위성 시계열 보간·미생물 시뮬레이션 외에는 일반 CG로도 가능한 부분이 많음 — 이 안건은 'AI 활용 안 해도 좋은 다큐'가 될 가능성도 있음.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD2-3",
+      "title_short": "베이즈 그래프로 본 일상 결정 7가지",
+      "scores": {"publicness": 8, "veracity": 8, "learning_intent": 9, "scalability": 9, "ai_necessity": 7},
+      "weighted_score": 8.05,
+      "comment": "'확률적으로 사고하기'는 AI 시대의 가장 시급한 시민 교양이고, 베이즈 정리는 학교에서 직관으로 가르치지 않는 핵심 도구. 학습 의도성·확장성(시즌화·교과)이 매우 강함. Griffiths/Tenenbaum 자문 가능성도 견고. 다만 AI 필연성이 약함 — 베이즈 그래프 시각화는 3Blue1Brown이 이미 잘 보여줬고 AI 없이도 가능. '왜 EBS인가'에는 답하지만 '왜 AI인가'에는 답이 약함. 시각 설계의 차별화가 핵심.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD2-4",
+      "title_short": "70세 한 하루, 60조 세포의 합창",
+      "scores": {"publicness": 8, "veracity": 9, "learning_intent": 8, "scalability": 8, "ai_necessity": 8},
+      "weighted_score": 8.05,
+      "comment": "Lopez-Otin 'Hallmarks of aging'(2023) 기반의 차분한 분자생물학 다큐로, '안티에이징' 마케팅과 분리된 EBS만의 차별 톤 가능. 65세+ 시청층 급증과 정확히 맞물림. 다만 '노화'는 EBS·KBS·디스커버리에서 반복적으로 다뤄온 주제로 본 안건이 '한국적 각도' 또는 '결정적 형식 차별화'를 더 명확히 보여줘야. 현재는 표준 노화 다큐 톤에 머무름.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD2-5",
+      "title_short": "1438년 한양의 별 좌표 복원",
+      "scores": {"publicness": 8, "veracity": 9, "learning_intent": 9, "scalability": 9, "ai_necessity": 9},
+      "weighted_score": 8.65,
+      "comment": "조선 천문학(간의·혼천의) '결과 중심' 재현이라는 각도가 매우 강함. 한국 과학사 콘텐츠는 늘 유물 외관 소개에 머물렀는데 이건 '그가 본 별'을 NASA JPL Horizons로 역산해 같이 본다는 본질 시각화. AI 천체역학 시뮬레이션이 '필연성' 충족. 한영호·한국천문연구원 자문 견고. EBS 비교우위 영역. 시즌화·교과 연계도 강함. PD2 안에서 가장 강함.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD2-6",
+      "title_short": "제트기류로 본 폭염·한파 50년",
+      "scores": {"publicness": 8, "veracity": 8, "learning_intent": 8, "scalability": 7, "ai_necessity": 7},
+      "weighted_score": 7.65,
+      "comment": "Francis & Vavrus(2012) 가설 기반으로 한반도 데이터에 적용하는 발상 좋음. 매년 반복되는 '역대급 폭염·한파'를 구조 시그널로 묶는 학습 효과. 다만 제트기류 약화 가설은 학계에서 아직 합의되지 않은 부분이 있어 단정적 톤 주의 필요. AI 역할도 ERA5 시각화 정도로 '필연성' 약함 — 시각화 강한 일반 다큐로 만들 수도 있는 영역.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD3-1",
+      "title_short": "초고령사회 25년 압축",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 7, "ai_necessity": 5},
+      "weighted_score": 7.55,
+      "comment": "초고령사회 진입은 가장 큰 사회 시그널이고 EBS 공공성과 직결. 통계청·OECD·UN 시계열 견고. 다만 '인구 피라미드 60년 모핑 영상'은 AI 없이도 가능한 표준 데이터 시각화 — AI 필연성 매우 약함. 그리고 '가상의 1965년생 부부 시뮬레이션'은 PD3가 본인 강점인 통계 리터러시에서 PD1식 미시사로 넘어가는 어색함이 있음. 안건 자체는 OK지만 PD3 6안 중 다른 것들이 더 강함.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD3-2",
+      "title_short": "1975년 가구 50년 가계부",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 9, "scalability": 8, "ai_necessity": 6},
+      "weighted_score": 7.95,
+      "comment": "GDP 거시지표 vs 체감 경제 괴리는 한국 사회 최대 인지부조화. '평균이 거짓말하는 순간' 시각화가 진영 갈등 없이 작동하는 통계 리터러시 콘텐츠. 슈카월드와 차별화될 수 있는 '공신력 기반' 포지션. 단, AI 역할이 '평균과 중앙값을 동시에 그리는 것'은 AI 없이도 가능 — '왜 AI인가'가 약함. 이 약점은 PD3 6안 거의 모두에 공통.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD3-3",
+      "title_short": "한·일 지방소멸 30년 시차 비교",
+      "scores": {"publicness": 9, "veracity": 9, "learning_intent": 8, "scalability": 8, "ai_necessity": 6},
+      "weighted_score": 8.05,
+      "comment": "지방소멸 138개·60.2%는 EBS 지역 시청자와 직결. '소멸 고발'에서 '버틴 마을의 조건'으로 앵글 이동이 비관 일변도 피하는 좋은 결정. 일본 과소화 30년 비교는 학계 검증된 분석축. 머신러닝 회귀로 '버틴 변수' 추출은 AI 활용으로 적절. 다만 PD4-2(이탈리아 1유로 빈집)와 결이 겹침 — 둘 중 하나로 정리 필요.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD3-4",
+      "title_short": "AI 격차 — 두 개의 나라",
+      "scores": {"publicness": 10, "veracity": 8, "learning_intent": 8, "scalability": 8, "ai_necessity": 8},
+      "weighted_score": 8.50,
+      "comment": "공공성 만점 — 사회 약자(고령·저소득·장애) 우선이라는 EBS 가치와 정확히 일치. NIA 데이터로 단절층 규모 정량 확인 가능. AI 에이전트로 '70대와 20대가 같은 행정 서비스 받을 때 마찰' 시뮬레이션은 AI 본질 활용. 시즌화·교과 활용도 강함. PD3 안에서 단연 강함. 다만 '디지털 격차'는 KBS·MBC도 다루는 주제 — 차별화는 'AI 에이전트로 마찰 시뮬레이션'이라는 형식.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD3-5",
+      "title_short": "평균은 거짓말한다 — 30대 분포",
+      "scores": {"publicness": 9, "veracity": 9, "learning_intent": 10, "scalability": 9, "ai_necessity": 6},
+      "weighted_score": 8.55,
+      "comment": "통계 리터러시는 모든 사회 의제의 기초 인프라이고 한국 교양에서 거의 비어 있는 영역. 학습 의도성 만점. '내 위치를 입력하면 분포 위 점으로 표시' 인터랙션은 EBS 디지털 자산화에도 강함. 다만 PD3-2(가계부)와 결이 거의 같음 — 둘 중 하나만 살려야. PD3-2보다 이쪽이 더 추상적·범용적으로 강함. AI 필연성은 여전히 약함(분위수 시각화는 일반 도구로도 가능).",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD3-6",
+      "title_short": "380조 vs 0.72 — OECD 16개국 비교",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 7, "ai_necessity": 7},
+      "weighted_score": 7.85,
+      "comment": "저출산 정책 비판이 정파적으로 흐르기 쉬운 영역에서 'OECD 16개국 비교'로 객관 톤 유지하는 좋은 설계. 인터랙티브 차트로 시청자가 가중치 조정하는 형식은 학습 효과 강함. 다만 저출산은 KBS·SBS·뉴스타파에서 이미 다양하게 다뤄짐 — 차별화 포인트가 '인터랙티브'와 '국제 비교 매칭'에 의존. '내가 생각한 정책 조합이 어떤 나라에 가까운가' 매칭은 흥미롭지만 핵심 학습으로 작동하는지 모호.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD4-1",
+      "title_short": "서울·도쿄·헬싱키 75세 여성 식탁",
+      "scores": {"publicness": 8, "veracity": 8, "learning_intent": 7, "scalability": 7, "ai_necessity": 5},
+      "weighted_score": 7.05,
+      "comment": "1인가구·고령화 시그널과 글로벌 비교가 만나는 적절한 안건. 핀란드 1인가구 47%·일본 700만 데이터 견고. 단점이 명확 — AI 역할이 '화상 동시 중계+다국어 번역'으로 매우 약함. 이건 AI 안 써도 되는 다큐. 그리고 '세 도시 같은 시각 식탁'은 KBS 글로벌 다큐에서 이미 자주 본 포맷. 차별화 약함. PD4의 강점인 '의외의 지리'가 안 보임.",
+      "verdict": "WEAK"
+    },
+    {
+      "logline_ref": "PD4-2",
+      "title_short": "이탈리아 1유로 빈집 vs 한국 소멸 마을",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 8, "ai_necessity": 5},
+      "weighted_score": 7.55,
+      "comment": "한·일 비교(PD3-3)와 결이 겹치지만 이탈리아 1유로 정책이라는 구체 사례가 차별점. 청년 이주자 1년 교차 추적은 EBS식 호흡과 잘 맞음. 다만 AI 역할이 '위성 사진 정합'과 '행정 공문서 번역'에 그쳐 필연성 매우 약함. PD3-3과 둘 중 하나만 가야. PD3-3이 통계 학습 의도성에서 더 강하지만, 이쪽은 '재정착의 구체적 실험'으로 이야기성에서 더 강함.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD4-3",
+      "title_short": "제주어·아이누어 마지막 발음 AI 복원",
+      "scores": {"publicness": 9, "veracity": 9, "learning_intent": 8, "scalability": 8, "ai_necessity": 9},
+      "weighted_score": 8.55,
+      "comment": "유네스코 소멸위기언어 등급 동일이라는 객관 비교축이 강함. 음성 클로닝으로 사어 발음을 복원하되 화자·유족·공동체 동의 절차를 명시한 윤리 설계가 EBS 공교양 다큐의 모범 사례가 될 수 있음. AI 필연성이 강한 안건 — 음성 학습·복원은 AI 아니면 불가능. PD1-6(활판인쇄)과 같은 결의 '사라지기 전 아카이빙' 안건이지만 이쪽은 글로벌 비교축이 추가됨. PD4 안에서 가장 강함.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD4-4",
+      "title_short": "투발루 디지털 국가, 가라앉는 5년",
+      "scores": {"publicness": 8, "veracity": 8, "learning_intent": 7, "scalability": 6, "ai_necessity": 8},
+      "weighted_score": 7.45,
+      "comment": "투발루는 글로벌 기후 다큐의 단골 소재 — BBC·NHK·Netflix가 이미 여러 차례 다뤘음. '디지털 국가 선포'(2022)와 'Falepili Union'(2024) 시그널이 새롭지만 한국 시청자 직접 연결성이 약함. AI 가상 현장 리포팅은 흥미롭지만 '가지 않고 보여주기'에 치우치면 다큐의 신뢰가 약해짐. 차라리 한국 기후 이주(연안 마을, 강원도 등)와 묶는 한국 각도가 더 강했을 것.",
+      "verdict": "WEAK"
+    },
+    {
+      "logline_ref": "PD4-5",
+      "title_short": "튀니지·강원도 손빵의 인류학",
+      "scores": {"publicness": 6, "veracity": 7, "learning_intent": 6, "scalability": 6, "ai_necessity": 5},
+      "weighted_score": 5.95,
+      "comment": "발상은 시적이지만 EBS 다큐로서 학습 가치가 약함. '두 부엌의 손동작이 일치한다'는 인류학적 통찰은 흥미롭지만 한 회 다큐를 끌어가는 본질 학습 메시지로 약함. AI 역할도 '모션 매칭'과 '다국어 자막'으로 필연성 거의 없음. PD4의 다른 안건 5개가 더 강함. KILL 후보.",
+      "verdict": "KILL"
+    },
+    {
+      "logline_ref": "PD4-6",
+      "title_short": "AI에 못 들어간 사람들의 글로벌 지도",
+      "scores": {"publicness": 8, "veracity": 7, "learning_intent": 8, "scalability": 7, "ai_necessity": 7},
+      "weighted_score": 7.45,
+      "comment": "PD3-4(AI 격차 두 개의 나라)와 결이 정확히 겹침. 글로벌 비교축(인도네시아·케냐·한국)이 추가된 차이뿐. PD3-4가 한국 데이터(NIA)로 더 단단하고 AI 에이전트 시뮬레이션이라는 형식 차별화도 더 강함. 이쪽은 PD4의 글로벌 강점 살린 변형이지만 PD3-4에 비해 약함. 둘 중 하나만 가야 한다면 PD3-4.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD5-1",
+      "title_short": "AI가 상상한 한국 노인 — 당사자 반박 메타",
+      "scores": {"publicness": 9, "veracity": 7, "learning_intent": 9, "scalability": 8, "ai_necessity": 10},
+      "weighted_score": 8.45,
+      "comment": "'AI 출력 → 당사자 반박' 메타 구조는 EBS만이 할 수 있는 미디어 리터러시 + 당사자성 결합. AI 필연성 만점 — 이 콘텐츠 자체가 AI 모델 비교가 본질. 노년 시청자를 '대상'이 아닌 '검증자'로 세우는 공영성 강화 설계 매우 좋음. 단점은 8개 모델 latent space 비교의 고증 신뢰도 — '편향'을 어떻게 객관 측정할지 자문진과 방법론이 견고해야. PD5 안에서 가장 강함.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD5-2",
+      "title_short": "임진왜란 인터랙티브 분기 + 사학자 듀얼",
+      "scores": {"publicness": 7, "veracity": 7, "learning_intent": 7, "scalability": 7, "ai_necessity": 8},
+      "weighted_score": 7.20,
+      "comment": "Black Mirror Bandersnatch 이후 인터랙티브 다큐는 글로벌에서 산발 시도됐지만 학습 가치 깎이는 함정 빈번. '사학자 듀얼 트랙'이 안전장치라는 설계는 좋으나 '반사실 시뮬레이션'이 본 내용이 되면 학습 메시지가 흐려짐. AI 분기 영상 생성은 신선하지만 EBS 사학자가 '가상 시나리오'를 매번 명시하느라 호흡이 끊길 위험. 시청자가 정말 능동적 학습으로 받아들일지 검증 필요.",
+      "verdict": "OK"
+    },
+    {
+      "logline_ref": "PD5-3",
+      "title_short": "사라진 마을 음성 합성 아카이브",
+      "scores": {"publicness": 9, "veracity": 8, "learning_intent": 8, "scalability": 9, "ai_necessity": 9},
+      "weighted_score": 8.55,
+      "comment": "PD1-6(활판인쇄)·PD4-3(제주어·아이누어)와 같은 '사라지기 전 아카이빙' 결이지만 이쪽은 '복원본을 당사자가 듣는' 메타 경험이 추가됨 — 합성 미디어 리터러시 교육과 결합. 음성 클로닝의 윤리 절차가 견고하면 EBS 모범. Attenborough 50년 종적 추적의 한국 버전이라는 포지셔닝도 강함. PD5 안에서 PD5-1과 함께 가장 강함. 다만 PD1-6·PD4-3과 결이 겹치는 게 cycle 전체 30개 중 가장 큰 중복.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD5-4",
+      "title_short": "AI 환각 라이브 팩트체크 쇼",
+      "scores": {"publicness": 8, "veracity": 8, "learning_intent": 9, "scalability": 8, "ai_necessity": 9},
+      "weighted_score": 8.30,
+      "comment": "'AI를 검증 대상으로 뒤집는' 발상이 신선하고 EBS 공신력과 정확히 결합. 통계학자·기자가 30분 안에 환각 추적하는 탐정 구조는 학습 효과 강함. 슈카월드 시장 검증된 30분 표준 길이도 적절. AI 필연성 강함 — 본 내용이 AI 비교 검증. 단점은 매주 정기 편성이라 라이브 운영 리스크 큼. 한 번이라도 환각 추적이 실패하면 EBS 공신력에 역효과. 시범 시즌 후 정규화 권고.",
+      "verdict": "STRONG"
+    },
+    {
+      "logline_ref": "PD5-5",
+      "title_short": "1만 명 동시접속 1인가구 토론",
+      "scores": {"publicness": 7, "veracity": 6, "learning_intent": 6, "scalability": 6, "ai_necessity": 8},
+      "weighted_score": 6.55,
+      "comment": "발상은 신선하지만 운영 리스크가 너무 큼. '시청자 1만 명 발화 → 다음 회차 콘텐츠 생성' 루프는 매주 무엇이 생성될지 통제 불가능 — EBS 편집권·고증 책임과 정면 충돌. 시청자 발화 데이터의 익명·동의 처리, 부적절 발화 필터링, 콘텐츠 품질 보장 모두 미해결. AI 필연성은 강하지만 '왜 EBS인가' 답이 약함. 이 형식은 EBS보다 디지털 플랫폼 실험에 가까움.",
+      "verdict": "WEAK"
+    },
+    {
+      "logline_ref": "PD5-6",
+      "title_short": "내 식탁의 기후 — 시민 과학",
+      "scores": {"publicness": 8, "veracity": 7, "learning_intent": 8, "scalability": 7, "ai_necessity": 7},
+      "weighted_score": 7.45,
+      "comment": "'내 식탁'으로 기후를 끌어내리는 발상은 좋고, 시민 과학 모델로 시청자 참여 학습은 EBS 본업과 부합. 그러나 식재료 이미지 인식의 정확도, 탄소·수자원 DB 매칭의 추정 오차가 사실 검증의 신뢰도를 흔들 수 있음 — 'EBS가 잘못된 숫자를 줬다'는 시비 리스크. PD2-2(갯벌)와 비교하면 같은 환경 영역에서 PD2-2가 고증·시각 설계 모두 더 단단. 차별점은 '시청자 데이터 누적'이지만 그 데이터의 정합성이 약함.",
+      "verdict": "OK"
+    }
+  ],
+  "summary_stats": {
+    "STRONG": ["PD1-1", "PD1-3", "PD1-6", "PD2-1", "PD2-2", "PD2-5", "PD3-2", "PD3-3", "PD3-4", "PD3-5", "PD4-3", "PD5-1", "PD5-3", "PD5-4"],
+    "OK": ["PD1-2", "PD1-4", "PD1-5", "PD2-3", "PD2-4", "PD2-6", "PD3-1", "PD3-6", "PD4-2", "PD4-6", "PD5-2", "PD5-6"],
+    "WEAK": ["PD4-1", "PD4-4", "PD5-5"],
+    "KILL": ["PD4-5"],
+    "top_weighted_top7": [
+      {"ref": "PD1-6", "score": 8.75},
+      {"ref": "PD2-5", "score": 8.65},
+      {"ref": "PD3-5", "score": 8.55},
+      {"ref": "PD4-3", "score": 8.55},
+      {"ref": "PD5-3", "score": 8.55},
+      {"ref": "PD3-4", "score": 8.50},
+      {"ref": "PD5-1", "score": 8.45}
+    ]
+  },
+  "cut_proposal": {
+    "default_rule": "PD별 1개씩 5개 (각 PD 강점 보존, 균형 편성)",
+    "selected": ["PD1-6", "PD2-5", "PD3-4", "PD4-3", "PD5-1"],
+    "rationale": "이 5개를 권고하는 이유는 명확하다. 첫째, 각 PD의 핵심 강점이 가장 응축된 안건이다 — PD1은 사라지는 신체 기억(활판), PD2는 한국 과학사 결과 재현(조선 천문), PD3는 사회 약자 정량 데이터(AI 격차), PD4는 글로벌 비교 윤리 아카이빙(소멸 언어), PD5는 형식 자체가 본질인 메타(AI 편향 반박). 둘째, AI 필연성이 모두 7점 이상으로 'AI 아니면 불가능'이라는 본질 활용 조건을 모두 통과한다. 셋째, 30개 중 가장 큰 중복인 '사라지는 것 결'(PD1-6·PD4-3·PD5-3) 중에서 PD1-6은 신체기술, PD4-3은 언어, PD5-3은 마을이라 결이 너무 비슷한 PD5-3을 양보하고 PD4-3을 살리는 쪽이 글로벌 비교축까지 추가돼 더 풍성하다. 넷째, 통계 리터러시 결의 PD3-2·PD3-5·PD3-6 중 PD3-4(AI 격차)는 결이 다르고 공공성 만점이라 우선. PD3-5(평균의 함정)는 PD3 강점 정점이지만 PD3-4보다 사회 약자 직접성이 약해 차순위로.",
+    "alternative": {
+      "description": "PD별 1개 룰을 깨고 강한 후보로 다시 5개 뽑는 대안. PD3·PD5의 압도적 강함을 활용.",
+      "selected": ["PD1-6", "PD2-5", "PD3-4", "PD3-5", "PD5-1"],
+      "rationale_alt": "PD4 자체가 약하다 — 6안 중 STRONG이 PD4-3 하나뿐이고 WEAK 2개·KILL 1개. PD4-3의 '소멸 언어 복원'은 PD1-6과 같은 '아카이빙' 결이라 둘 살리면 cycle 전체 톤이 한쪽으로 쏠림. 차라리 PD4를 한 번 양보하고 PD3에서 두 개(PD3-4 사회 약자 + PD3-5 통계 리터러시)를 살리면 통계·사회 교양의 두 축이 동시에 서고, PD5-1의 메타 다큐와 결합해 'AI 시대 시민 교양 4부작'이라는 일관된 시리즈 그림이 가능하다. 단, PD4 입장에서는 본인 안건 0개라는 사기 문제 있어 인간 결정자가 정치적으로 판단할 영역. 정량 점수만 보면 이 대안이 평균 weighted_score가 8.59로 기본룰(8.58)과 거의 같지만, 시리즈 일관성에서 더 강함."
+    },
+    "questions_for_humans": [
+      "PD4 살리느냐 죽이느냐 — 기본룰(PD4-3 살림, 5명 균형)과 대안(PD3 두 개 살림, 시리즈 일관성)이 weighted_score는 거의 같다. 슬찬은 시뮬레이션 운영 측면에서 PD별 균형(사기·다음 cycle 동기부여)이 더 중요한지, 시리즈 톤 일관성이 더 중요한지 어느 쪽?",
+      "'사라지는 것 결' 중복 — PD1-6(활판), PD4-3(소멸언어), PD5-3(소멸마을 음성합성)이 결이 매우 비슷하다. 셋 중 하나만 살린다면 신체기술(PD1-6)·언어(PD4-3)·풍경+음성합성(PD5-3) 어느 결이 시청자에게 가장 강할까. 내 추천은 PD1-6(가장 EBS다운 영구 보존)+PD4-3(글로벌 비교 추가) 살리고 PD5-3 양보지만, PD5-3의 '당사자가 합성본을 듣는' 메타 구조가 미디어 리터러시로는 가장 강할 수도 있음.",
+      "PD3-2와 PD3-5 둘 다 '평균의 함정' 결이다. 둘 중 하나만 살린다면 PD3-5(30대 분포 인터랙션)가 더 추상적·범용적이라 추천하지만, PD3-2(50년 가계부)가 더 이야기성이 강해 시청자 진입에는 유리. 슬찬은 어느 쪽?",
+      "PD5-4(AI 환각 팩트체크 쇼)는 매주 정기 편성 라이브라 운영 리스크가 가장 크다 — 한 번 환각 추적이 실패하면 EBS 공신력 역효과. 시범 시즌(4회) 먼저 가고 정규화는 다음 cycle에서 결정하는 게 안전한데, 이걸 cycle-001 기본 5선에 포함시킬지 시범 별도 트랙으로 빼서 6번째로 갈지?"
+    ]
+  },
+  "kill_recommendations": [
+    {
+      "ref": "PD4-5",
+      "reason": "튀니지·강원도 손빵 인류학. 발상은 시적이지만 학습 가치가 약하고 AI 필연성 거의 없음. PD4 6안 중 단연 약함. weighted 5.95로 30개 중 최저. 다른 cycle에서 다른 형식으로 발전시킬 수는 있으나 이번 5선 진입 가치 없음."
+    },
+    {
+      "ref": "PD5-5",
+      "reason": "1만 명 동시접속 1인가구 토론. 운영 리스크 너무 큼 — 시청자 발화 → 다음 회차 자동 생성 루프는 EBS 편집권·고증 책임과 정면 충돌. 부적절 발화 필터링·콘텐츠 품질 보장 미해결. '왜 EBS인가' 답 약함. 이 형식은 디지털 플랫폼 실험에 가까움."
+    },
+    {
+      "ref": "PD4-4",
+      "reason": "투발루 디지털 국가. 글로벌 기후 다큐 단골 소재로 BBC·NHK·Netflix가 이미 다뤘음. 한국 시청자 직접 연결성 약함. 'AI 가상 현장 리포팅'에 치우치면 다큐 신뢰도 약화. 차라리 한국 연안 기후 이주와 묶었어야 PD4 강점이 살았을 것."
+    }
+  ],
+  "meta_notes": [
+    "중복 결 1: '사라지는 것 아카이빙' — PD1-6(활판)·PD4-3(언어)·PD5-3(마을 음성). cycle 전체에서 가장 큰 중복. 셋 중 둘만 살리는 게 최선.",
+    "중복 결 2: '통계 리터러시' — PD3-2·PD3-5·PD3-6. PD3-5가 가장 강하지만 PD3-2와 결 거의 동일.",
+    "중복 결 3: 'AI 격차·디지털 약자' — PD3-4·PD4-6. PD3-4가 형식 차별화로 우위.",
+    "중복 결 4: '한·일 비교·지방소멸' — PD3-3·PD4-2. PD3-3이 통계 학습 의도성에서 우위.",
+    "AI 필연성 평균: PD1 8.2, PD2 7.7, PD3 6.3, PD4 6.5, PD5 8.5. PD3·PD4의 'AI 안 써도 되는 다큐' 위험이 가장 큼 — 시각화·시뮬레이션 차별화 필요.",
+    "cycle-001 30개 전체 weighted_score 평균 7.83. 7.5 이하 7개. 8.5 이상 7개. 분포 양호."
+  ]
+}

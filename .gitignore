@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+.next/
+*.log
+*.mp4
+*.mov
+.env
+.env.local
+.env.production
+
+# Local-only build outputs
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
